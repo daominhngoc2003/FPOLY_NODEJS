@@ -1,0 +1,3 @@
+github student pack
+github copolot
+gitlens
